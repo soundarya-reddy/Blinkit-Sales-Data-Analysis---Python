@@ -60,6 +60,6 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
 ## 👤 Author
-SOUNDARYA
+SOUNDARYA<br>
 Aspiring Data Analyst  
 Skills: SQL | Excel | Power BI | Python
